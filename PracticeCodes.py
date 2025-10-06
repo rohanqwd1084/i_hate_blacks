@@ -1,1 +1,0 @@
-a=int(input("Enter a number: "456))
