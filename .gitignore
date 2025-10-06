@@ -1,1 +1,14 @@
-./.venv
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+env/
+*.log
+*.sqlite3
+instance/
+migrations/
+*.env   
+coverage/
+
